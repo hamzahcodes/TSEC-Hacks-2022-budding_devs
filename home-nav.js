@@ -12,3 +12,6 @@ hamburger.addEventListener('click', ()=>{
     //Hamburger Animation
     hamburger.classList.toggle("toggle");
 });
+
+
+document.getElementsByClassName('login-button')
